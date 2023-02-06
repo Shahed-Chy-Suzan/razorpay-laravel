@@ -1,0 +1,38 @@
+
+
+//=========================================================================================
+						//*****	Razorpay Payment Gateway in Laravel 9	*****//
+//=========================================================================================
+	- Razorpay website: https://razorpay.com/
+	- Razorpay documentation : https://razorpay.com/docs/#home-payments
+	- Testing Card Number: https://razorpay.com/docs/payments/payments/test-card-upi-details/
+	
+	- my_github: https://github.com/Shahed-Chy-Suzan/razorpay-laravel
+	- resource: 
+				-blog:--
+						-- https://www.itsolutionstuff.com/post/laravel-razorpay-payment-gateway-exampleexample.html
+						-- https://websolutionstuff.com/post/how-to-integrate-razorpay-payment-gateway-in-laravel
+						-- https://www.tutsmake.com/laravel-8-razorpay-payment-gateway-integration-tutorial-example/
+						-- 
+				-Youtube:--
+						-- https://www.youtube.com/results?search_query=razorpay+payment+gateway+integration+in+laravel
+						-- https://www.youtube.com/watch?v=boE_2OKniFk
+						
+	-- 
+			-- link: 
+	
+	
+	-1- composer require razorpay/razorpay
+	-2- 
+			//------ in .env ----------
+					Key id ==	xxxxxxxxxxxxxxxxxxxxx
+					Key Secret ==	xxxxxxxxxxxxxxxxxxxxx
+			
+	//------------------web.php----------------------
+			
+			
+	-3- 
+	
+	-4- 
+	
+	
