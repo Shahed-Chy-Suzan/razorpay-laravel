@@ -10,7 +10,7 @@
 	- my_github: https://github.com/Shahed-Chy-Suzan/razorpay-laravel
 	- resource:
 				-blog:--
-                        -- https://www.webappfix.com/post/how-to-integrate-razorpay-payment-gateway-in-laravel-9-example.html
+            -- https://www.webappfix.com/post/how-to-integrate-razorpay-payment-gateway-in-laravel-9-example.html
 						-- https://www.itsolutionstuff.com/post/laravel-razorpay-payment-gateway-exampleexample.html
 						-- https://websolutionstuff.com/post/how-to-integrate-razorpay-payment-gateway-in-laravel
 						-- https://www.tutsmake.com/laravel-8-razorpay-payment-gateway-integration-tutorial-example/
@@ -26,9 +26,20 @@
 	-1- composer require razorpay/razorpay
 	-2-
 			//------ in .env ----------
-					Key id ==	xxxxxxxxxxxxxxxxxxxxx
-					Key Secret ==	xxxxxxxxxxxxxxxxxxxxx
+					Key id ==	rzp_test_YYJ2hJH6syYvaM
+					Key Secret ==	29oVFu302X8pdg8uLfwVHVw6
+					//---or---
+					RAZORPAY_KEY=rzp_test_YYJ2hJH6syYvaM
+					RAZORPAY_SECRET=29oVFu302X8pdg8uLfwVHVw6
 
+
+	//------------------ Test Card for Domestic Payments ----------------------
+			-- Card_Network --> Visa
+			-- Card_Number --> 4111 1111 1111 1111
+			-- CVV --> Random CVV
+			-- Expiry_Date --> Any future date
+			
+	
 	//------------------web.php----------------------
 
 
